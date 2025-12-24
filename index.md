@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "About"
 ---
 
 I am a second-year PhD student in Economics at the University of Seville and a member of the [Family Wellbeing and Child Welfare Research Group]([https://family-wellbeing-project.es]). My research interests are in applied microeconomics, with a particular focus on health and education.
