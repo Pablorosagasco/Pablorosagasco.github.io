@@ -18,9 +18,9 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "CV",  sidebaricon: home} #poner nuevo cv
+  - {file: "archive.html", title: "CV",  sidebaricon: address-card} #poner nuevo cv
   - {file: "Research.md", title: "Research", sidebaricon: address-card}
-  - {file: "README.md", title: "Teaching", sidebaricon: address-card}
+  - {file: "Teaching.md", title: "Teaching", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail,  url: "mailto:prosa@us.es"}
