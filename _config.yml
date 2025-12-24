@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:prosa@us.es"}
-  - {title: Bluesky, url: "https://pablorg.bsky.social", sidebaricon: "/assets/Bluesky_logo_(black).svg"}
+  - {title: Bluesky, sidebaricon: "/assets/Bluesky_logo_(black).svg", url: "https://pablorg.bsky.social"}
 
  
   
