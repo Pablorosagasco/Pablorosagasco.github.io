@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", title: "CV",  sidebaricon: home} #poner nuevo cv
-  - {file: "README.md", title: "Research", sidebaricon: address-card}
+  - {file: "Research.md", title: "Research", sidebaricon: address-card}
   - {file: "README.md", title: "Teaching", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
