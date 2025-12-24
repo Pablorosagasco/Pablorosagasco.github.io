@@ -17,8 +17,8 @@ title: "Research"
 ---
 
 # Invited Seminars
-- Universidad Pablo de Olavide (2025).
-- Universidad de Granada (2025).
+- Universidad Pablo de Olavide - 2025.
+- Universidad de Granada - 2025.
   
 # Conference Presentations / Workshops
 
