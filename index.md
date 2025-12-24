@@ -3,6 +3,6 @@ layout: page
 title: "About"
 ---
 
-I am a second-year PhD student in Economics at the University of Seville and a member of the [Family Wellbeing and Child Welfare Research Group]([https://family-wellbeing-project.es]). My research interests are in applied microeconomics, with a particular focus on health and education.
+I am a second-year PhD student in Economics at the University of Seville and a member of the [Family Wellbeing and Child Welfare Research Group]([[https://family-wellbeing-project.es](https://personal.us.es/cborra/the-project/)]). My research interests are in applied microeconomics, with a particular focus on health and education.
 
 If you would like to get in touch, feel free to contact me at: [prosa@us.es](mailto:prosa@us.es) 
