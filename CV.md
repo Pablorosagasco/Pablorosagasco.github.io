@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 You can view or download my CV using the link below:
 
