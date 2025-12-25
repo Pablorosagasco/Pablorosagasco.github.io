@@ -13,7 +13,10 @@ If you would like to get in touch, feel free to contact me at: <a href="mailto:p
 <br><br>
 
 <p style="text-align:center;">
-  <img src="/profile.jpg" style="width:200px; border-radius:8px;">
+  <img src="/profile.jpg" 
+       alt="Portrait of Pablo Rosa"
+       style="width:230px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
 </p>
+
 
 
