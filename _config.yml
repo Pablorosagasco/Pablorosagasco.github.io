@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "Teaching.md", title: "Teaching", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail,  url: "mailto:prosa@us.es"}
+  - {title: Mail, icon: envelope,  url: "mailto:prosa@us.es"}
   #- {title: Bluesky, sidebaricon: "/assets/Bluesky_logo_(black).svg", url: "https://pablorg.bsky.social"}
   #- {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
 
