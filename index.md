@@ -4,6 +4,7 @@ title: "About"
 ---
 
 I am a PhD candidate in Economics at the University of Seville and a member of the <a href="https://personal.us.es/cborra/the-project/" target="_blank">Family Wellbeing and Child Welfare Research Group</a>.  
+
 My research centers on applied microeconomics, with a particular emphasis on family, health, and education economics.
 
 You can find my <a href="./PabloRosaResume.pdf">CV</a> and learn more about my <a href="Research.md">research</a>.
