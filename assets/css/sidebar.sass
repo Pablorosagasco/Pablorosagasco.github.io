@@ -5,46 +5,85 @@
 
 body
   font-size: calc(0.8rem + 0.3vw)
-  padding: 0 0 0 18em
-  background: light(100, 17)
+  padding: 0 0 0 19em
+  background: light(100, 15)
 
 body > header, body > footer
   display: none
 
 body > *
   margin: 0
-  padding: 2em 6em
-  max-width: 50em
+  padding: 2.5em clamp(1.5em, 6vw, 5em)
+  max-width: 52em
   box-shadow: none
+  background: transparent
 
 aside
   display: flex!important
   flex-direction: column
   position: fixed
-  width: 18em
-  padding: 2em 0
+  width: 19em
+  padding: 2.5em 0 2em
   top: 0
   bottom: 0
   left: 0
-  background: light(14)
-  color: light(100)
-  border-right: 1px solid light(22)
+  background: #2f3729
+  color: #e8ead9
+  border-right: none
+
+.side-profile
+  display: block
+  padding: 0 2em 1.6em
+  margin: 0 0 1.2em
+  border-bottom: 1px solid rgba(232, 234, 217, .12)
+  text-decoration: none
+  color: inherit
+
+.side-profile img
+  width: 68px
+  height: 68px
+  border-radius: 8px
+  object-fit: cover
+  display: block
+  margin: 0 0 .9em
+
+.side-name
+  display: block
+  font-family: $font-family-display
+  font-weight: 700
+  font-size: 1.3em
+  line-height: 1.2
+  color: #f2f3ec
+
+.side-role
+  display: block
+  font-size: .78em
+  line-height: 1.45
+  color: #b9c3a8
+  margin-top: .4em
 
 aside nav
   margin: 0
   flex-grow: 1
   a
-    display: block
+    display: flex
+    align-items: center
     font-weight: inherit
     margin: 0
-    padding: .6em 2em
+    padding: .65em 2em
     border-radius: 0
     word-wrap: break-word
+    color: #d7dbc9
     &:hover, &.selected
-      background: light(20)
-      color: inherit
+      background: rgba(143, 165, 123, .16)
+      color: #f2f3ec
   svg
     margin: 0 1em 1px 0
+    opacity: .8
 
 aside footer
-  padding: 1em 2em
+  padding: 1.2em 2em 0
+  margin-top: 1em
+  font-size: .78em
+  color: #8b9480
+  border-top: 1px solid rgba(232, 234, 217, .12)

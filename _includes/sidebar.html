@@ -1,5 +1,10 @@
 <link rel="stylesheet" href="{{ "/assets/css/sidebar.css" | relative_url }}" media="screen and (min-width: 58em)">
 <aside style="display: none">
+  <a href="{{ "/" | relative_url }}" class="side-profile">
+    <img src="{{ "/profile.jpg" | relative_url }}" alt="Portrait of {{ site.author }}">
+    <span class="side-name">{{ site.title }}</span>
+    {%- if site.role %}<span class="side-role">{{ site.role }}{% if site.institution %}<br>{{ site.institution }}{% endif %}</span>{% endif -%}
+  </a>
   <nav>
   {% assign keys = 'navigation,external,footer' | split: ',' %}
   {% for key in keys %}

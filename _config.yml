@@ -1,6 +1,8 @@
 title: "Pablo Rosa Gasco"
 author: "Pablo Rosa Gasco"
 description: "University of Seville"
+role: "PhD Candidate, Economics"
+institution: "University of Seville"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -9,8 +11,8 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false            # show a sidebar instead of the usual header
+show_frame: false                # display a grey frame on large screens
+show_sidebar: true            # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
 
 #show_frame: "/assets/images/background.svg"
@@ -18,7 +20,8 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV.md", title: "CV", sidebaricon: address-card} 
+  - {file: "index.md", title: "About", sidebaricon: home}
+  - {file: "CV.md", title: "CV", sidebaricon: address-card}
   - {file: "Research.md", title: "Research", sidebaricon: address-card}
   - {file: "Teaching.md", title: "Teaching", sidebaricon: address-card}
 
