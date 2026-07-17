@@ -7,7 +7,7 @@ I am a PhD candidate in Economics at the University of Seville and a member of t
 
 My research centers on applied microeconomics, with a particular emphasis on family, health, and education economics.
 
-You can find my <a href="./PabloRosaResume.pdf">CV</a> and learn more about my <a href="Research.md">research</a>.
+You can find my <a href="https://raw.githubusercontent.com/Pablorosagasco/pablo-rosa-resume/main/PabloRosaResume.pdf">CV</a> and learn more about my <a href="Research.md">research</a>.
 
 If you would like to get in touch, feel free to contact me at: <a href="mailto:prosa@us.es">prosa@us.es</a>.
 
