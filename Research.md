@@ -23,15 +23,15 @@ title: "Research"
 ---
 
 # Invited Seminars
-- Universidad Pablo de Olavide - 2025.
 - Universidad de Granada - 2025.
+- Universidad Pablo de Olavide - 2025.
   
 # Conference Presentations / Workshops
 
-- 50th Simposio De La Asociación Española De Economía (SAEe) - 2025, Universidad Autónoma de Barcelona.
-- Early Career & PhD Workshop on SocioEconomic Mobility and Public Policies (WEIPO) - 2025, Universidad de Alcalá.
-- The 2025 annual meeting of the Society of Economics of the Household (SEHO) - 2025, Universidad de Zaragoza.
 - The 2026 annual meeting of the Society of Economics of the Household (SEHO) - University of Pavia.
+- The 2025 annual meeting of the Society of Economics of the Household (SEHO) - 2025, Universidad de Zaragoza.
+- Early Career & PhD Workshop on SocioEconomic Mobility and Public Policies (WEIPO) - 2025, Universidad de Alcalá.
+- 50th Simposio De La Asociación Española De Economía (SAEe) - 2025, Universidad Autónoma de Barcelona.
   
 
 # Upcoming
